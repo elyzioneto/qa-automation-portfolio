@@ -1,0 +1,20 @@
+# QA Automation Portfolio - Python Dependencies
+
+# Robot Framework core
+robotframework==6.1.1
+
+# API Testing
+robotframework-requests==0.9.5
+requests==2.31.0
+
+# Assertions and utilities
+robotframework-seleniumlibrary==6.2.0
+
+# JSON Schema validation
+jsonschema==4.21.1
+
+# Reports
+robotframework-reportportal==5.4.1
+
+# Linting
+robotframework-tidy==4.9.0
